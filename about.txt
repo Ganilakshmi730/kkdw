@@ -1,0 +1,4 @@
+
+Name : Y.Veera Ganilakshmi
+Course : Bsc-Data Science
+One thing that i learned about GitHub : “I learned that GitHub is a platform where developers can store, share, and collaborate on code using version control (Git), which helps track changes and manage projects efficiently.”
